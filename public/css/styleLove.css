@@ -1,0 +1,113 @@
+
+.background{
+    background-color: #ff6150;
+}
+.titleForm{
+    color: #fff;
+    background-color: #ff6150;
+    font-family: Arabic;
+    width: 15rem;
+    height: 3.3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.white{
+    color:white; 
+}
+.selection{
+  border:0px;
+  outline: 0px; 
+  cursor: pointer;
+}
+.forDisplay{
+    width:20rem;
+    background-color: #fff;
+    height: 20rem;
+    margin: 2rem;
+}
+.color{
+    color:#00b075;
+}
+.top{
+    background-color: #fff;
+    cursor: pointer;
+   height: 2rem;
+    font-weight: 600;
+    word-spacing: 1px;
+    border-bottom: 1px solid #EDEFF0;
+    box-shadow: 7px 0px 0px 0px;
+    
+}
+.top:hover{
+    background-color: #f5f9fc;
+}
+.logo{
+    font-family: Arabic;
+    height: 2rem;
+}
+
+li{
+    font-family: Arabic;   
+}
+option{
+    font-family: Arabic; 
+    cursor: pointer;
+    border:0px;outline: none;
+}
+.select{
+    font-family: Arabic;  cursor: pointer;
+    border:1px solid #fff;
+outline: none;
+}
+.option{
+    font-family: Arabic;  cursor: pointer;
+    border:1px solid #fff;
+outline: none;
+}
+footer{
+    height: 5.5rem;
+    background-color: #ff6150;
+    margin-top: 5rem;
+   
+}
+.form{
+    width:40rem;
+    background-color: #fff;
+    height: 24rem;
+    margin: 1rem;
+}
+.styleLabel{
+font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.7px;
+    color: #9aa1a1;
+    font-family: 'Arabic';
+    word-spacing: 1px;
+}
+.result{
+    width:40rem;
+    background-color: #fff;
+    height: 28rem;
+margin-bottom: 1rem;
+}
+.titleResult{
+    color: #fff;
+    background-color: #ff6150;
+    font-family: Arabic;
+    width: 6rem;
+    height: 3.3rem;
+    display:inline-flex ;
+    justify-content: center;
+    align-items: center;
+   
+}
+.resultRatio{
+    display:inline-flex;
+    color: #9aa1a1;
+    font-family: 'Arabic';
+    position: relative;
+    left: -24px;
+}
